@@ -29,7 +29,7 @@
 
 1. **克隆项目**
    ```bash
-   git clone https://github.com/your-username/dy_cmd.git
+   git clone https://github.com/VexMare/Dy_Cmd.git
    cd dy_cmd
    ```
 
